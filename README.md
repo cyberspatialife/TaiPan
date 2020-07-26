@@ -11,10 +11,10 @@ A GUI for MSF Venom that generates a payload, serves the payload on a web server
 * **Pyqt5**
 	* `sudo apt install python3-pyqt5`
 
-## USAGE 
+## Usage 
 `python3 TaiPan_v1.0.py`
 
-## DESKTOP BUTTON OPTION
+## Desktop Button Option
 For a full GUI experience you can add a desktop shortcut to your VM.
 
 * You will need to add the following file --> **taipan.desktop** --> **`~/.local/share/applications`**
